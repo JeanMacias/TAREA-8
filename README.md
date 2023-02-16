@@ -92,11 +92,68 @@ NRC: 10063
   
   ***PRIMER CUADRANTE***
 
+**13)** Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
+![image](https://user-images.githubusercontent.com/116774235/219286455-61b246d8-5d26-42f9-9b3a-5873c4b7ae58.png)
+
+**Respuesta:** Se mantiene la misma expresión polar 12 ∠ 115°
+
+![image](https://user-images.githubusercontent.com/116774235/219286507-a8a5d924-0225-432e-9e73-295896593f1a.png)
 
 
+**Respuesta:** Al ángulo negativo le sumamos 360° lo cual nos queda: 20 ∠ 230°
+
+![image](https://user-images.githubusercontent.com/116774235/219286547-9f99ea8c-0d36-4fc2-8ee4-8c257bd2976f.png)
 
 
+**Respuesta:** Al ángulo negativo le sumamos 360° lo cual nos queda: 100 ∠ 190°
 
+![image](https://user-images.githubusercontent.com/116774235/219286626-9e988d43-fab9-4b37-8d29-a0ab1f9903d7.png)
+
+**Respuesta:** Al ángulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
+
+**15)** Realice las siguientes sustracciones:
+
+![image](https://user-images.githubusercontent.com/116774235/219286704-e22a31d0-c09d-4192-8711-122d7632e1a8.png)
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286760-8e9cd1cf-dbd8-4c6f-9821-3b7f6ea3f8d1.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286789-df438556-173d-40cf-9c94-886c5f9acfc8.png)
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286814-8968e468-3994-4e44-ab6c-545bf6a9dab8.png)
+
+
+**d)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286863-69cdb201-cca0-4d12-975d-2ac4a99e1c32.png)
+
+**17)** Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/116774235/219286901-6303ce8b-95ab-4017-a7c9-3087aceefd12.png)
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286939-263b04a2-f7e6-4643-81aa-dca88cdc449a.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/219286970-0d93f712-b125-4bb1-a71a-15fbeeffe863.png)
+
+
+**c)**
+
+![image](https://user-images.githubusercontent.com/116774235/219287002-f06842c5-7ab7-4981-b4f0-af91ad548873.png)
+
+
+**d)** 
+
+![image](https://user-images.githubusercontent.com/116774235/219287027-411fd67a-a031-4f0c-9fb6-d8fe7d5930ed.png)
 
 * **SECCIÓN 15-2: RESPUESTA SINUSOIDAL DE CIRCUITOS RC EN SERIE**
 
