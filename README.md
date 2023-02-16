@@ -488,88 +488,130 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 * **SECCIÓN 16-1: RESPUESTA SINUSOIDAL DE CIRCUITOS RL EN SERIE**
 
+**1)** Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
-
-
-
-
+***Respuesta:*** 15 KHz
 
 * **SECCIÓN 16-2: IMPEDANCIA DE CIRCUITOS RL EN SERIE**
 
+**3)** Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
+***Figura 16-54:***
 
+![image](https://user-images.githubusercontent.com/116774235/219376326-5ca68bf9-b347-4d60-b1cb-142a8e17d3cd.png)
 
+**5)** En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 
+***Figura 16-56:***
 
+![image](https://user-images.githubusercontent.com/116774235/219376412-bd261b12-8193-4cfe-9241-369ce6d23f5d.png)
+
+***Respuesta:***
+
+![image](https://user-images.githubusercontent.com/116774235/219376451-6979bd72-3da4-4899-89e7-8738c5f9f3fd.png)
+
+**7)** Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/116774235/219376612-95006f73-5c53-4aa5-aa6a-db25c8a19d8d.png)
 
 * **SECCIÓN 16-3: ANÁLISIS DE CIRCUITOS RL EN SERIE**
 
+**9)** Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
 
+![image](https://user-images.githubusercontent.com/116774235/219376765-5b3275da-d08f-4fe7-8949-5dbf79a64a48.png)
 
+**11)** Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
+***Figura 16-55:***
 
+![image](https://user-images.githubusercontent.com/116774235/219376875-b5c9c7e9-4114-4451-96b0-29dedfe0b330.png)
+
+***Respuesta:***
+
+**a)**
+
+![image](https://user-images.githubusercontent.com/116774235/219376932-e9767cce-1a28-46b1-b8a3-b3b46db444e8.png)
+
+**b)**
+
+![image](https://user-images.githubusercontent.com/116774235/219376974-03db126f-02dd-4b0e-a0cf-dec5232f3d4d.png)
+
+**13)** Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+***Figura 16-58:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377075-480bc7fd-a991-4cd2-aefa-5afb56f45056.png)
+
+***Respuesta:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377124-51520adf-8897-4d41-ba09-4de7361e9d04.png)
+
+La inductancia incrementa
+
+**15)** Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+***Figura 16-59:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377297-1b9b3916-f673-4000-8573-7187ba2db35c.png)
+
+***Respuesta:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377336-e58bdb70-1662-49d6-9c20-8b3644e4f024.png)
+
+**17)** Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con res�pecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+***Figura 16-61:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377440-928ed822-f10a-4806-b3e8-50257cb8463c.png)
+
+***Respuesta:***
+
+![image](https://user-images.githubusercontent.com/116774235/219377479-48a15af7-795f-4aa7-8cf4-ea0e993d0c9d.png)
 
 
 ### ***PARTE 2: CIRCUITOS EN PARALELO***
 
 * **SECCIÓN 16-4: IMPEDANCIA Y ADMITANCIA DE CIRCUITOS RL EN PARALELO**
 
+**19)** ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
 
+***Figura 16-63:***
 
+![Captura de pantalla (12)](https://user-images.githubusercontent.com/116774235/219377880-e0f0ad7a-ccf1-4b87-b836-dfcd5e426c93.png)
 
+***Respuesta:***
 
+![image](https://user-images.githubusercontent.com/116774235/219377979-d2c02799-13d8-4a0a-8a32-e87b3f2c288f.png)
 
+**21)** ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
+***Figura 16-63:***
 
+![Captura de pantalla (12)](https://user-images.githubusercontent.com/116774235/219377880-e0f0ad7a-ccf1-4b87-b836-dfcd5e426c93.png)
+
+***Respuesta:***
+
+![image](https://user-images.githubusercontent.com/116774235/219378144-79e9499c-92d8-4e46-b38b-28fb3b94ce19.png)
 
 * **SECCIÓN 16-5: ANÁLISIS DE CIRCUITOS RL EN PARALELO**
 
+**23)** Determine las siguientes cantidades en la figura 16-65:
 
+***Figura 16-65:***
 
+![Captura de pantalla (13)](https://user-images.githubusercontent.com/116774235/219378425-f4bf7b84-6bf0-4ccd-bc96-39a41316fc60.png)
 
+***Respuesta:***
 
-### ***PARTE 3: CIRCUITOS EN SERIE-PARALELO***
+![image](https://user-images.githubusercontent.com/116774235/219378476-0fd4ec1c-9b6b-4a7c-8f29-e12e994961e3.png)
 
-* **SECCIÓN 16-6: ANÁLISIS DE CIRCUITOS RL EN SERIE-PARALELO**
+**25)** Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
 
+***Figura 16-66:***
 
+![image](https://user-images.githubusercontent.com/116774235/219378570-cda3395f-a906-481c-a96c-6ca7e63bdaed.png)
 
-
-
-
-### ***PARTE 4: TEMAS ESPECIALES***
-
-* **SECCIÓN 16-7: POTENCIA EN CIRCUITOS RL**
-
-
-
-
-
-
-
-
-* **SECCIÓN 16-8: APLICACIONES BÁSICAS**
-
-
-
-
-
-* **SECCIÓN 16-9: LOCALIZACIÓN DE FALLAS**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116774235/219378597-2951b1bb-65c1-48d5-b070-c1c677505ed8.png)
 
 
 # **CONCLUSIONES**
