@@ -28,7 +28,7 @@ NRC: 10063
 
 > ### **CAPÍTULO 16**
 
-# ***CONCLUSIONES***
+# **CONCLUSIONES**
 
 *
 
