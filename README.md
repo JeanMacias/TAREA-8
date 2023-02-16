@@ -8,13 +8,18 @@ NRC: 10063
 
 ### **OBJETIVO GENERAL**
 
+Conocer la teoría y aplicaciones de los circuitos RC y RL para poder encontrar sus diferentes etapas de carga-descarga.
 
 
 ### **OBJETIVOS ESPECÍFICOS**
 
-*
+* Definir y comprender la diferencia entre circuito RC Y RL.
 
-*
+* Comprender los anàlisis de circuitos en paralelo y serie en los circuitos RC y RL.
+
+* Analizar dinámicamente las oscilaciones electromagnéticas en el circuito RLC sin fuente de energía externa.
+
+* Estudio de las características de circuitos RC y RL. Respuesta para tensiones cuadradas y sinusoidales. Impedancia y admitancia inductiva.
 
 # **MARCO TEÓRICO**
 
@@ -616,9 +621,12 @@ La inductancia incrementa
 
 # **CONCLUSIONES**
 
-*
+* Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
+  Se caracteriza por que la corriente puede variar con el tiempo.
 
-*
+* Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+
+* En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
 
 # **BIBLIOGRAFÍA**
 
