@@ -25,7 +25,9 @@ Conocer la teoría y aplicaciones de los circuitos RC y RL para poder encontrar 
 
 > ### **CAPÍTULO 15**
 
-![154693284-c62afdcc-cb4f-4c64-93f5-b232ef7cd8b5](https://user-images.githubusercontent.com/116774235/219381578-52e867d1-c8ac-4897-9445-3468808e9dcc.jpg)
+![Página-1](https://user-images.githubusercontent.com/116774235/220939141-37ee6371-ebe1-4ec2-88b6-789464b235f1.jpg)
+
+![Página-2](https://user-images.githubusercontent.com/116774235/220939156-e562d1f0-7880-4f7b-8f39-282265ab74a4.jpg)
 
 > ### **CAPÍTULO 16**
 
