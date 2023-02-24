@@ -23,7 +23,7 @@ Conocer la teoría y aplicaciones de los circuitos RC y RL para poder encontrar 
 
 # **MARCO TEÓRICO**
 
-> ### **CAPÍTULO 15**
+> ### **CAPÍTULO 15: CIRCUITOS RC**
 
 ![IMG 1](https://user-images.githubusercontent.com/116774235/221057017-51d6bcd5-93df-4b8a-94a5-a4d44b629a9c.jpg)
 
@@ -32,9 +32,11 @@ Conocer la teoría y aplicaciones de los circuitos RC y RL para poder encontrar 
 ![IMG 3](https://user-images.githubusercontent.com/116774235/221057577-6a2b83ff-4be2-4d31-b1d9-e7460a95ab99.jpg)
 
 
-> ### **CAPÍTULO 16**
+> ### **CAPÍTULO 16: CIRCUITOS RL**
 
 ![IMG 1](https://user-images.githubusercontent.com/116774235/221060515-fed1defe-45f8-47a6-a9a4-754ed999f4af.jpg)
+
+![IMG 2](https://user-images.githubusercontent.com/116774235/221082378-f525f6fa-f0d2-4a1a-9d9e-916b2503af90.jpg)
 
 
 # **RESOLUCIÓN DE EJERCICIOS**
